@@ -76,6 +76,7 @@ Sebastian
 - [What factors should I consider when choosing a predictive model technique?](./choosing-technique.md)
 - [What are the best toy datasets to help visualize and understand classifier behavior?](./clf-behavior-data.md)
 - [How do I select SVM kernels?](./select_svm_kernels.md)
+- [Interlude: Comparing and Computing Performance Metrics in Cross-Validation -- Imbalanced Class Problems and 3 Different Ways to Compute the F1 Score](./computing-the-f1-score.md)
 
 
 ##### Logistic Regression
@@ -100,8 +101,9 @@ Sebastian
 - [Why do some people hate neural networks/deep learning?](./deeplearning-criticism.md)
 - [How can I know if Deep Learning works better for a specific problem than SVM or random forest?](./deeplearn-vs-svm-randomforest.md)
 - [What is wrong when my neural network's error increases?](./neuralnet-error.md)
-- [How do I debug an artificial neural network algorithm?](./faq/nnet-debugging-checklist.md)
+- [How do I debug an artificial neural network algorithm?](./nnet-debugging-checklist.md)
 - [What is the difference between a Perceptron, Adaline, and neural network model?](./diff-perceptron-adaline-neuralnet.md)
+- [What is the basic idea behind the dropout technique?](./dropout.md)
 
 ##### Other Algorithms for Supervised Learning
 
